@@ -8,7 +8,7 @@ We'll be using gdb only. It's better a lot if you work on this with gdb instead 
 
 So shall we start ?
 
-We will continue this from [writeup2](https://github.com/mza7a/Boot2Root/blob/main/writeup2.md). And exactly in the part where we get a reverse shell (nstead of doing the dirtycow exploit).
+We will continue this from [writeup2](https://github.com/mza7a/Boot2Root/blob/master/writeup2.md). And exactly in the part where we get a reverse shell (nstead of doing the dirtycow exploit).
 
 When we list what we have on home directory, we'll find a `LOOKATME` folder. With a password for lmezard user in it.
 ```
